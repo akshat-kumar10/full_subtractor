@@ -49,6 +49,9 @@ full-subtractor/
 └── README.md
 ```
 
+![RTL Diagram](full_sub_RTL.png)
+
+
 
 ## 🧪 Testbench
 
